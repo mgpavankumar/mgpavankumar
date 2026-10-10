@@ -1,10 +1,14 @@
 # M. G. Pavan Kumar
 
+
 M.Tech student at **SRM Institute of Science and Technology**, exploring data engineering, backend development, and graph analytics for financial technology.
+
 
 I build learning projects that connect typed application logic with APIs, database models, validation, and automated tests.
 
+
 ## Selected projects
+
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
@@ -15,17 +19,36 @@ I build learning projects that connect typed application logic with APIs, databa
 | [Reminder REST API](https://github.com/mgpavankumar/ASSIGNMENT-4) | Reminder lifecycle, completion filters, and HTTP regression tests | TypeScript, Hono |
 | [Fitness tracker](https://github.com/mgpavankumar/fitness) | Profile validation, workout logs, and defensive copies | TypeScript |
 
+
 These are educational projects. Their READMEs describe setup, tests, examples, and current limitations.
 
+
+## More learning projects
+
+| Project | Focus |
+| --- | --- |
+| [Movie catalogue](https://github.com/mgpavankumar/movies) | TypeScript movie management, UUIDs, ratings, and search |
+| [Reminder manager](https://github.com/mgpavankumar/remainder) | Date validation and defensive copies in TypeScript |
+| [C++ playground](https://github.com/mgpavankumar/playground) | C++17 console exercises and automated output checks |
+
+## Verified build
+
+[Hacker News build and integration tests](https://github.com/mgpavankumar/Hacker-News/actions/runs/38034787034) passed on 10 October 2026. This is a recorded CI result, not a guarantee of production readiness.
+
 ## Technical focus
+
 
 - **Backend:** TypeScript, Node.js, Hono, REST APIs
 - **Databases:** PostgreSQL, Prisma, relational modelling
 - **Quality:** Input validation, automated tests, GitHub Actions
 - **Learning:** Python, PySpark, Apache Airflow, data pipelines, and graph analytics
 
+
 ## Current direction
+
 
 Developing a deeper foundation in data engineering and exploring graph versus relational databases for market surveillance.
 
+
 [Browse my repositories](https://github.com/mgpavankumar?tab=repositories)
+
