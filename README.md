@@ -8,6 +8,7 @@ I build learning projects that connect typed application logic with APIs, databa
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
+| [OilSense](https://github.com/mgpavankumar/oilsense) | Chronological ML tuning, price/direction prediction, saved Spark pipelines, API, and measured backtests | PySpark, FastAPI, JavaScript |
 | [Community discussion API](https://github.com/mgpavankumar/community-discussion-api) | Revocable JWT sessions, salted password hashing, shared authentication quotas, and ownership checks | TypeScript, Hono, Prisma, PostgreSQL |
 | [Food ordering API](https://github.com/mgpavankumar/food-ordering-api) | Atomic order creation, menu validation, and completed-order revenue | TypeScript, Hono, Prisma, PostgreSQL |
 | [College records API](https://github.com/mgpavankumar/college-records-api) | Relational records, proctorships, memberships, and transactional deletion | TypeScript, Hono, Prisma, PostgreSQL |
